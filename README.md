@@ -1,16 +1,18 @@
-<!-- Animated Header -->
+<!-- ========================= HEADER ========================= -->
+
+<!-- Futuristic Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077ff,100:8A2BE2&height=260&section=header&text=Navneet%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Backend%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Navneet%20Kumar&fontSize=60&fontColor=00F7FF&animation=blinking&fontAlignY=40&desc=Java%20Developer%20•%20DSA%20Enthusiast%20•%20Backend%20Developer&descAlignY=58&descSize=20" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=600%2B+DSA+Problems+Solved;Java+Backend+Developer;Operating+Systems+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVwMzdjMjFmdXZ6M2p0dW5la3M3MXB0aDR1c2Q2ZDh2MnJpcXVkMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-<!-- Profile Views -->
+<!-- Neon Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Navneet6050&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Java+Backend+Developer;Operating+Systems+Enthusiast;Competitive+Programmer;Always+Building+and+Learning" />
 </p>
 
 ---
@@ -41,7 +43,7 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,git,github,linux,spring,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,git,github,linux,spring,vscode&theme=dark" />
 </p>
 
 ---
@@ -92,11 +94,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-600%2B%20Problems-success?style=for-the-badge" />
-  
+
   <img src="https://img.shields.io/badge/LeetCode-Active%20Solver-orange?style=for-the-badge&logo=leetcode" />
-  
+
   <img src="https://img.shields.io/badge/Java-Backend%20Developer-blue?style=for-the-badge&logo=openjdk" />
-  
+
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving-informational?style=for-the-badge" />
 </p>
 
@@ -122,5 +124,5 @@
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0077ff,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 </p>
