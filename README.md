@@ -43,7 +43,6 @@
 
 <p align="center">
   <img
-    height="180em"
     src="https://streak-stats.demolab.com?user=Navneet6050&theme=tokyonight&hide_border=true"
   />
 </p>
