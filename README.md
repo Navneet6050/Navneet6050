@@ -44,19 +44,7 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Navneet6050&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-
-  <img
-    height="180em"
     src="https://streak-stats.demolab.com?user=Navneet6050&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet6050&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
