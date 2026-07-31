@@ -1,9 +1,9 @@
+
 <!-- Simple Header -->
 <h1 align="center">Hi 👋, I'm Navneet</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=600%2B+DSA+Problems+Solved;Java+Backend+Developer;Operating+Systems+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=700%2B+DSA+Problems+Solved;Java+Backend+Developer;Spring+Boot+Microservices+Developer;Operating+Systems+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -12,9 +12,9 @@
 
 <p align="center">
 💻 Passionate about Data Structures & Algorithms <br>
-📈 Solved 600+ DSA Problems Across Coding Platforms <br>
-🚀 Focused on Java, Backend Development & Operating Systems <br>
-📊 Exploring Data Science & Python <br>
+📈 Solved 700+ Coding Problems Across LeetCode & GFG <br>
+🚀 Java Backend Developer focused on Spring Boot & Microservices <br>
+⚙️ Exploring Distributed Systems, Cloud & DevOps <br>
 ⚡ Consistent Learner & Competitive Programmer
 </p>
 
@@ -23,10 +23,10 @@
 # 🚀 Current Focus
 
 <p align="center">
-🔹 Strengthening DSA for Coding Interviews <br>
-🔹 Backend Development using Java & Spring Boot <br>
-🔹 Operating Systems Projects & Security <br>
-🔹 Data Analysis using Python (EDA + Statistics)
+🔹 Spring Boot & Microservices <br>
+🔹 System Design & Distributed Systems <br>
+🔹 DSA & LeetCode Contests <br>
+🔹 Docker, Kafka, Redis & CI/CD
 </p>
 
 ---
@@ -34,17 +34,39 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql,git,github,linux,spring,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,redis,kafka,git,github,linux,python,cpp&perline=6"/>
 </p>
+
+---
+
+# 💻 Skills
+
+<table align="center">
+<thead>
+<tr>
+<th>#</th><th>Domain</th><th>Technology</th><th>What I Work With</th><th>Experience</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>10</td><td>Backend</td><td>Java & Spring Boot</td><td>Spring Boot, REST APIs, Spring Cloud</td><td>Advanced</td></tr>
+<tr><td>9</td><td>Microservices</td><td>Distributed Systems</td><td>API Gateway, Eureka, Config Server</td><td>Intermediate</td></tr>
+<tr><td>8</td><td>Messaging</td><td>Apache Kafka</td><td>Event Driven Communication</td><td>Intermediate</td></tr>
+<tr><td>7</td><td>Databases</td><td>PostgreSQL & MySQL</td><td>SQL, Schema Design</td><td>Intermediate</td></tr>
+<tr><td>6</td><td>Caching</td><td>Redis</td><td>Performance Optimization</td><td>Intermediate</td></tr>
+<tr><td>5</td><td>DevOps</td><td>Docker & GitHub Actions</td><td>Containerization, CI/CD</td><td>Intermediate</td></tr>
+<tr><td>4</td><td>Observability</td><td>Prometheus, Grafana, Zipkin</td><td>Monitoring & Tracing</td><td>Intermediate</td></tr>
+<tr><td>3</td><td>Testing</td><td>JUnit 5, Mockito, Testcontainers</td><td>Unit & Integration Testing</td><td>Intermediate</td></tr>
+<tr><td>2</td><td>Machine Learning</td><td>Python</td><td>NumPy, Pandas, Scikit-learn</td><td>Intermediate</td></tr>
+<tr><td>1</td><td>Core CS</td><td>DSA, DBMS, OS, CN</td><td>OOP, SQL, Problem Solving</td><td>Advanced</td></tr>
+</tbody>
+</table>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Navneet6050&theme=tokyonight&hide_border=true"
-  />
+<img src="https://streak-stats.demolab.com?user=Navneet6050&theme=react&hide_border=true"/>
 </p>
 
 ---
@@ -52,9 +74,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet6050&theme=tokyo-night&hide_border=true&area=true"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Navneet6050&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -62,58 +82,60 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
+<img src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+# 🧠 LeetCode
 
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/navneet605?theme=dark&font=Baloo&ext=contest"
-  />
+<div align="center">
+<h2>Leetcode Info</h2>
+<p>
+<a href="https://leetcode.com/navneet605/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="180"/></a>
+<a href="https://leetcode.com/navneet605/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="180"/></a>
+<a href="https://leetcode.com/navneet605/"><img src="https://assets.leetcode.com/static_assets/others/200.gif" height="180"/></a>
+<a href="https://assets.leetcode.com/static_assets/marketing/202605.gif"><img src="https://assets.leetcode.com/static_assets/marketing/202605.gif" height="180"/></a>
 </p>
 
+<img src="https://leetcard.jacoblin.cool/navneet605?theme=dark&font=Baloo&ext=contest"/>
+</div>
+
 <p align="center">
-🔥 Strong Problem-Solving Skills with 600+ DSA Problems Solved
+🔥 Strong Problem-Solving Skills with 700+ Coding Problems Solved
 </p>
 
 ---
 
-# 🏅 Achievements & Badges
+# 🏅 Achievements
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/DSA-600%2B%20Problems-success?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Solver-orange?style=for-the-badge&logo=leetcode" />
-
-  <img src="https://img.shields.io/badge/Java-Backend%20Developer-blue?style=for-the-badge&logo=openjdk" />
-
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-informational?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-Active%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Microservices-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Backend%20Developer-blue?style=for-the-badge&logo=openjdk"/>
 </p>
+
+---
+
+# ⚡ Current Statistics
+
+<div align="center">
+<img width="390" src="https://streak-stats.demolab.com/?user=Navneet6050&count_private=true&theme=react&border_radius=10"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Navneet6050&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneet6050&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+<a href="https://linkedin.com/in/contactnavneet04">
+<img src="https://img.shields.io/badge/LinkedIn-Navneet-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="https://linkedin.com/in/contactnavneet04">
-    <img src="https://img.shields.io/badge/LinkedIn-Navneet-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:navneet.beast04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Navneet-red?style=for-the-badge&logo=gmail" />
-  </a>
-
-  <a href="https://instagram.com/navneet1x8">
-    <img src="https://img.shields.io/badge/Instagram-Navneet-pink?style=for-the-badge&logo=instagram" />
-  </a>
-
+<a href="mailto:n.navneetk04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Navneet-red?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
