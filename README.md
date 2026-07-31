@@ -74,10 +74,25 @@
 # 🏅 Achievements
 
 <p align="center">
-<img src="https://img.shields.io/badge/DSA-700%2B%20Problems-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LeetCode-Active%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-Microservices-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-Backend%20Developer-blue?style=for-the-badge&logo=openjdk"/>
+  <a href="https://leetcode.com/navneet605/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="180" />
+  </a>
+
+  <a href="https://leetcode.com/navneet605/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="180" />
+  </a>
+
+  <a href="https://leetcode.com/navneet605/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="180" />
+  </a>
+
+  <a href="https://leetcode.com/navneet605/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/main/assets/2026-05.gif"
+      alt="May 2026 Badge"
+      height="180"
+    />
+  </a>
 </p>
 
 ---
