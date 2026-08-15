@@ -25,14 +25,14 @@
 <thead><tr><th>#</th><th>Domain</th><th>Technology</th><th>What I Work With</th><th>Experience</th></tr></thead>
 <tbody>
 <tr><td>1</td><td>Backend</td><td>Java & Spring Boot</td><td>Spring Boot, REST APIs, Spring Cloud</td><td>Advanced</td></tr>
-<tr><td>2</td><td>Microservices</td><td>Distributed Systems</td><td>API Gateway, Eureka, Config Server</td><td>Intermediate</td></tr>
-<tr><td>3</td><td>Messaging</td><td>Apache Kafka</td><td>Event Driven Communication</td><td>Intermediate</td></tr>
-<tr><td>4</td><td>Databases</td><td>PostgreSQL & MySQL</td><td>SQL, Schema Design</td><td>Intermediate</td></tr>
+<tr><td>2</td><td>Microservices</td><td>Distributed Systems</td><td>API Gateway, Eureka, Config Server</td><td>Advanced</td></tr>
+<tr><td>3</td><td>Messaging</td><td>Apache Kafka</td><td>Event Driven Communication</td><td>Advanced</td></tr>
+<tr><td>4</td><td>Databases</td><td>PostgreSQL & MySQL</td><td>SQL, Schema Design</td><td>Advanced</td></tr>
 <tr><td>5</td><td>Caching</td><td>Redis</td><td>Performance Optimization</td><td>Intermediate</td></tr>
 <tr><td>6</td><td>DevOps</td><td>Docker & GitHub Actions</td><td>Containerization, CI/CD</td><td>Intermediate</td></tr>
 <tr><td>7</td><td>Observability</td><td>Prometheus, Grafana, Zipkin</td><td>Monitoring & Tracing</td><td>Intermediate</td></tr>
 <tr><td>8</td><td>Testing</td><td>JUnit 5, Mockito, Testcontainers</td><td>Unit & Integration Testing</td><td>Intermediate</td></tr>
-<tr><td>9</td><td>Machine Learning</td><td>Python</td><td>NumPy, Pandas, Scikit-learn</td><td>Intermediate</td></tr>
+<tr><td>9</td><td>Machine Learning</td><td>Python</td><td>NumPy, Pandas, Scikit-learn</td><td>Advanced</td></tr>
 <tr><td>10</td><td>Core CS</td><td>DSA, DBMS, OS, CN</td><td>OOP, SQL, Problem Solving</td><td>Advanced</td></tr>
 </tbody></table>
 
