@@ -7,18 +7,6 @@
 
 ---
 
-# 💫 About Me
-
-<p align="center">
-💻 Passionate about Data Structures & Algorithms <br>
-📈 Solved 700+ Coding Problems Across LeetCode & GFG <br>
-🚀 Java Backend Developer focused on Spring Boot & Microservices <br>
-⚙️ Exploring Distributed Systems, Cloud & DevOps <br>
-⚡ Consistent Learner & Competitive Programmer
-</p>
-
----
-
 # 💻 Skills
 
 <table align="center">
