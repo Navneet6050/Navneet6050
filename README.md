@@ -48,19 +48,19 @@
 <h2>Leetcode Info</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/navneet605/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="180"/>
+  <a href="https://leetcode.com/u/navneet605" target="_blank">
+    <img src="https://leetcode.com/medal/?showImg=0&id=9981263&isLevel=false" height="180"/>
   </a>
 
-  <a href="https://leetcode.com/navneet605/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="180"/>
-  </a>
-
-  <a href="https://leetcode.com/navneet605/" target="_blank">
+  <a href="https://leetcode.com/u/navneet605" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="180"/>
   </a>
 
-  <a href="https://leetcode.com/navneet605/" target="_blank">
+  <a href="https://leetcode.com/u/navneet605" target="_blank">
+    <img src="https://leetcode.com/medal/?showImg=0&id=10926245&isLevel=false" height="180"/>
+  </a>
+
+  <a href="https://leetcode.com/u/navneet605" target="_blank">
     <img src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/main/assets/2026-05.gif" height="180"/>
   </a>
 </p>
