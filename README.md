@@ -49,25 +49,25 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/navneet605" target="_blank">
-    <img src="https://leetcode.com/medal/?showImg=0&id=9981263&isLevel=false" height="180"/>
+    <img src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/main/assets/2026-100-days.gif" height="180" alt="2026 100 Days Badge"/>
   </a>
 
   <a href="https://leetcode.com/u/navneet605" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="180"/>
+    <img src="https://assets.leetcode.com/static_assets/others/200.gif" height="180" alt="200 Days Badge"/>
   </a>
 
   <a href="https://leetcode.com/u/navneet605" target="_blank">
-    <img src="https://leetcode.com/medal/?showImg=0&id=10926245&isLevel=false" height="180"/>
+    <img src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/main/assets/2026-365-days.gif" height="180" alt="365 Days Badge"/>
   </a>
 
   <a href="https://leetcode.com/u/navneet605" target="_blank">
-    <img src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/main/assets/2026-05.gif" height="180"/>
+    <img src="https://raw.githubusercontent.com/Navneet6050/Navneet6050/main/assets/2026-05.gif" height="180" alt="May Badge"/>
   </a>
 </p>
 
 <br>
 
-<img src="https://leetcard.jacoblin.cool/navneet605?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/navneet605?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
 
 </div>
 
